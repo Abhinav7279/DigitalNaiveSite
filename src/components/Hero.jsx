@@ -51,12 +51,10 @@ const Hero = () => {
         className="lg:w-1/2 w-full md:w-3/4 px-10 md:p-0"
       >
         <h1 className="text-[#7A6960] md:text-5xl text-3xl font-semibold">
-          Fueling Skills, Igniting Careers
+          Grow Your Business With Professional Web Design, SEO & Digital Marketing
         </h1>
         <p className="text-xl mt-5 text-gray-600 primary-font">
-          Master industry-relevant skills with our vernacular online courses.
-          Choose your program, get certified, & open doors to lucrative career
-          opportunities.
+          We help brands build stunning websites, rank higher on search engines, and get consistent traffic, leads & sales.
         </p>
         <div className="flex flex-col sm:flex-row items-center mb-12 lg:mb-0 lg:flex-row gap-10 mt-10">
           <a href="#contact" className="">
